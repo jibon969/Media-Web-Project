@@ -1,0 +1,17 @@
+h2{
+	color: red;  
+	text-align: center;
+}
+
+h3{
+	text-decoration: underline; /*but Difference */
+}
+
+p{
+	text-align: center;
+}
+
+h2,h3,p{
+
+	background-image: url(Image/7.jpg); /* Same h2,h3,p{   } */
+}

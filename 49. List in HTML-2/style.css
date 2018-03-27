@@ -1,0 +1,21 @@
+
+.A{
+
+	list-style-type:bengali;
+
+	color: red;
+}
+
+.B{
+
+	color: green;
+
+	list-style-type: square;
+}
+
+.C{
+
+	color: #8D68AE;
+
+	list-style-type: circle;
+}

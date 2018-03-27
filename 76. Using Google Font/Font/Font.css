@@ -1,0 +1,11 @@
+@font-face{ 
+
+	font-family: "OpenSans-Bold";
+
+	src:url("../Font/OpenSans-Bold.eot") format("eof"),
+
+	url("../Font/OpenSans-Bold.ttf") format("ttf"),
+
+	url("../Font/OpenSans-Bold.woff") format("woff");
+
+ }
